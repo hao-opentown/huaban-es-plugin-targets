@@ -1,3 +1,2 @@
 # huaban-es-plugin-targets
-The targets repo of this repo
-https://github.com/hao-opentown/elasticsearch-analysis-jieba
+The targets repo of https://github.com/huaban/elasticsearch-analysis-jieba
